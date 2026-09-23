@@ -34,6 +34,10 @@ Every tool is also `POST https://formbear.app/api/v1/tools/{tool}`, described by
 - `AGENTS.md`: rules of engagement for coding agents.
 - `plugin.json`, `mcp.json`: an [Agent Plugins](https://agent-plugins.org) manifest.
 
+## License
+
+MIT. See `LICENSE`.
+
 ## Support
 
 support@formbear.app. Docs: https://formbear.app/docs/mcp-connector.
