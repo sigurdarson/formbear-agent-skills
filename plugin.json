@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "formbear",
+  "version": "1.6.0",
+  "description": "Work with Formbear, the EU-hosted form and survey builder: read forms, responses, and analytics on any plan; build and publish forms on Pro. Ships the formbear skill and the MCP server config.",
+  "author": { "name": "Formbear", "email": "support@formbear.app", "url": "https://formbear.app" },
+  "homepage": "https://formbear.app/docs/mcp-connector",
+  "repository": "https://github.com/sigurdarson/formbear-agent-skills",
+  "keywords": ["forms", "surveys", "responses", "mcp", "formbear", "eu", "gdpr"]
+}

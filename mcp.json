@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "formbear": {
+      "type": "streamable-http",
+      "url": "https://formbear.app/api/mcp"
+    },
+    "formbear-docs": {
+      "type": "streamable-http",
+      "url": "https://formbear.app/api/mcp/docs"
+    }
+  }
+}
