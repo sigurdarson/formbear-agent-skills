@@ -30,7 +30,7 @@ Every tool is also `POST https://formbear.app/api/v1/tools/{tool}`, described by
 
 ## Files
 
-- `skills/formbear/SKILL.md`: the skill.
+- `skills/formbear/SKILL.md`: the skill. CI checks it against the copy Formbear serves, and checks `plugin.json` `version` against the live OpenAPI version.
 - `AGENTS.md`: rules of engagement for coding agents.
 - `plugin.json`, `mcp.json`: an [Agent Plugins](https://agent-plugins.org) manifest.
 
